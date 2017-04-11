@@ -1,0 +1,18 @@
+﻿body {
+  font-family: sans-serif;
+}
+
+.previews {
+  width: 550px;
+}
+.previews .source {
+  float: left;
+  overflow: hidden;
+}
+.previews .crop {
+  float: right;
+  overflow: hidden;
+}
+.previews .crop img {
+  border: none;
+}
